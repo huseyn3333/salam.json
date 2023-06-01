@@ -1,0 +1,2 @@
+# salam.json
+instagram 
